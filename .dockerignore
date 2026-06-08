@@ -1,0 +1,11 @@
+.git
+.gitignore
+.gradle/
+build/
+!build/libs/*.jar
+.vscode/
+gradle/
+gradlew
+gradlew.bat
+HELP.md
+*.md

@@ -28,4 +28,9 @@ public class HomeController {
     public String home() {
         return "Hello, Spring Boot!";
     }
+
+    @GetMapping("/test")
+    public String test() {
+        return "Hello, Spring Boot!";
+    }
 }
